@@ -1,0 +1,32 @@
+{
+    "Young_Modulus_Poisson": ["杨氏模量", "泊松比", "杨氏模量及泊松比"],
+    "Air_Damping": ["空气阻尼", "空气阻尼测定", "空气阻尼测定实验"],
+    "Kater_Pendulum": ["凯特摆"],
+    "Rotational_Inertia": ["刚体转动惯量", "转动惯量"],
+    "Contact_Angle": ["接触角", "接触角仪"],
+    "Thermal_Conductivity": ["导热系数", "导热"],
+
+    "Hall_Effect": ["霍尔效应", "霍尔"],
+    "Magnetoresistance": ["磁阻", "磁阻效应"],
+    "Electronics_Craft": ["电子小制作", "电子制作"],
+    "Sensor": ["传感器"],
+    "Wheatstone_Bridge": ["双臂电桥", "开尔文电桥", "开尔文"],
+    "Unbalance_Bridge": ["非平衡电桥", "不平衡电桥"],
+    "Digital_Meter": ["数字表", "数字表改装", "数字万用表", "万用表改装"],
+    "AC_Resonance": ["交流谐振", "交流谐振电路", "谐振电路", "RLC", "rlc"],
+    "Dielectric_Constant": ["介电常数", "介电"],
+
+    "Michelson_Interferometer": ["迈氏干涉仪", "迈克尔逊", "迈克耳逊", "迈克尔逊干涉仪", "迈氏"],
+    "Double_Grating": ["双光栅", "双光栅实验"],
+    "Polarized_Light": ["偏振光", "偏振"],
+    "Ultrasonic_Grating": ["超声光栅"],
+    "Ultrasonic_Locating": ["超声定位", "形貌成像", "超声定位与形貌成像"],
+    "Optical_Fiber_Sensor": ["光纤", "光纤传感器"],
+    "Bicurvature_Lens_1": ["对切透镜1", "对切透镜实验1", "对切透镜的光学实验1", "对切透镜"],
+    "Bicurvature_Lens_2": ["对切透镜2", "对切透镜实验2", "对切透镜的光学实验2", "对切透镜"],
+    "FH_Experiment": ["F-H", "FH", "夫兰克赫兹", "弗兰克赫兹", "夫兰克-赫兹", "弗兰克-赫兹"],
+    "Spectrograph": ["摄谱"],
+    "Monochromator": ["单色仪", "单色仪标定", "光谱测量", "单色仪标定与光谱测量"],
+
+    "Medical_Physics": ["医学物理", "医学物理实验"]
+}

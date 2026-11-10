@@ -1,0 +1,31 @@
+{
+    "Introduction_and_Simple_Pendulum": ["绪论", "单摆"],
+    "Mass_And_Density_Measurement": ["质量", "密度"],
+    "Youngs_Modulus_of_Steel_Wire": ["杨氏模量"],
+    "Shear_Modulus": ["切变模量"],
+    "Uniformly_Accelerated_Motion": ["匀加速"],
+    "Magnetic_Pendulum": ["磁力摆"],
+    "Sound_Velocity_Measurement": ["声速"],
+    "Liquid_Surface_Tension": ["表面张力"],
+    "Viscosity_Coefficient": ["粘滞系数", "黏滞系数"],
+    "Specific_Heat_of_Solids": ["比热"],
+
+    "Rectification_And_Filtering": ["整流", "滤波"],
+    "Semiconductor_Thermometer": ["半导体", "温敏", "热敏"],
+    "DC_Power_Supply_Characteristics": ["直流电源", "电源特性", "内阻"],
+    "Digital_Thermometer": ["数字", "非平衡电桥", "不平衡电桥", "电桥"],
+    "Oscilloscope_Usage": ["示波器", "暂态", "RLC", "rlc"],
+    "Silicon_Photocell": ["硅光电池", "光敏"],
+    "RGB_Color_Mixing": ["RGB", "rgb"],
+
+    "Spectrometer1303": ["分光", "光谱"],
+    "Spectrometer1312": ["分光", "光谱", "三棱镜"],
+    "Microscope_Usage": ["显微镜"],
+    "Lens_Parameter_Measurement": ["透镜", "焦距"],
+    "Interfere": ["干涉", "微小"],
+    "Diffraction": ["衍射", "延射"],
+    "Photoelectric_Effect": ["光电"],
+    "oil": ["密立根", "油滴"],
+    "1Physics_In_Life": ["生活中的物理1","生活中的物理实验1", "生活物理实验1", "生活的物理实验1", "生活的物理1", "生活物理1", "生活"],
+    "2Physics_In_Life": ["生活中的物理2","生活中的物理实验2", "生活物理实验2", "生活的物理实验2", "生活的物理2", "生活物理2", "生活"]
+}

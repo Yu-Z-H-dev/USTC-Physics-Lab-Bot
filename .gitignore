@@ -1,0 +1,34 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+# 环境变量与密钥（真实密钥绝不入库；.env.secret.temple 为模板、保留提交）
+.env
+.env.secret
+!.env.secret.temple
+
+# claude code
+.claude/
+
+# 二级大雾题库源码与 PDF（切片原料，不入库；仅切片产物 src/asserts/dawu2/*.jpg 入库）
+二级大雾题库/
+
+# VM 运行时数据与日志（由 start-*.sh 生成，不入库）
+bot_output.log
+official-bot.log
+.log-rotate/
+napcat-data/
+qq-data/
+napcat-home/
+napcat-config-rw/
+
+# 切图脚本（本地维护，不入库）
+scripts/slice_dawu2.py
